@@ -1,3 +1,5 @@
 https://www.analyticsvidhya.com/blog/2025/03/llm-evaluation-metrics/
 
+https://medium.com/data-science-in-your-pocket/llm-evaluation-metrics-explained-af14f26536d2
+
 
